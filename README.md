@@ -1,5 +1,9 @@
 # PulseOps — Phase: Foundations (Next.js App Router)
 
+- **Live Deployment URL**: [https://nextappvercel.vercel.app](https://nextappvercel.vercel.app)
+- **Health Check (Live SSR Data Fetch)**: [https://nextappvercel.vercel.app/health](https://nextappvercel.vercel.app/health)
+- **GitHub Repository**: [https://github.com/naman1015/nextapp](https://github.com/naman1015/nextapp)
+
 Day-one production scaffold built with **Next.js (App Router)**, **TypeScript**, and **Tailwind CSS v4**. Designed for continuous preview deployments on Vercel with zero secrets in the repository.
 
 ---
